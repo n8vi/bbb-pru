@@ -1,0 +1,4 @@
+all:
+
+install:
+	cp *.h /usr/include
