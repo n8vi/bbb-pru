@@ -14,7 +14,7 @@ uninstall:
 	(cd pasm; make uninstall)
 
 clean:
-	rm *~
+	rm -f *~
 	(cd lib; make clean)
 	(cd include; make clean)
 	(cd pasm; make clean)
