@@ -11,3 +11,7 @@ upgrade to TI's code soonish.
 
 If you want examples, you can still look at TI's code, or you
 can check out my PRU-based DDS at https://github.com/n8vi/pru-dds8.
+
+I am not an employee of Texas Instruments, and I am not responsible
+for any damages caused by this code.  It's not even my code, I am
+repackaging it!  See TI's source files for their legal information.
