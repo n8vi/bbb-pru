@@ -7,13 +7,6 @@ This is a simplification of that package which does not contain
 the examples, but does allow you to do "make install" and have an
 immediately working PRU environment.
 
-If you're feeling dangerous, your Beaglebone was just taken out
-of the box, and it has a solid internet connection, you can try
-doing "make doallthethings" to get git and ntp working.  Let me
-emphasize here though that you should only do this if you don't
-mind doing a complete reinstall because those make targets work
-in the most dangerous and lazily written way possible.
-
 If you want examples, you can still look at TI's code, or you
 can check out my PRU-based DDS at https://github.com/n8vi/pru-dds8.
 
